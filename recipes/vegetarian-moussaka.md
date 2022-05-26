@@ -1,3 +1,8 @@
+---
+title: Vegetarian Moussaka
+tags: recipe
+---
+
 # Vegetarian Moussaka
 
 ## Ingredients
