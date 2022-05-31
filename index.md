@@ -1,1 +1,2 @@
-[Recipes](./recipes)
+- [Recipes](./recipes)
+- [Learning](./learning)
