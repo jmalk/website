@@ -45,7 +45,7 @@ Things it might be worth learning more about.
     - Server
     - Gateway
       - How does it know which one to forward requests to?
-    - Federated?
+    - Federation
 ---
 
 # Quick setup for trying stuff
