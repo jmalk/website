@@ -46,6 +46,9 @@ Things it might be worth learning more about.
     - Gateway
       - How does it know which one to forward requests to?
     - Federation
+- Cloudflare Workers
+- Finite State Machines
+  - [XState](https://xstate.js.org/docs/)
 ---
 
 # Quick setup for trying stuff
