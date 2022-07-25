@@ -8,6 +8,7 @@ Things it might be worth learning more about.
 
 - Jest
   - learning/jest-mocking.md
+  - jest-preview
 - React
   - learning/react-hooks.md
     - [ ] Next: [Rules of hooks](https://reactjs.org/docs/hooks-rules.html)
