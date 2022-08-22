@@ -40,7 +40,7 @@ tags: recipe
 
 1. Boil the new potatoes. When they're done, drain and leave to cool in a bowl.
 1. Lay the aubergine out on trays and generously salt it. Set it aside for at least 20 minutes then pat dry with kitchen paper.
-1. Start the bechamel: Add the milk, halved onion, cloves, onion and bay leaf to a pan. Gently bring to a boil, then remove from the heat and leave for at least 20 minutes, to infuse.
+1. Start the bechamel: Add the milk, onion, cloves, and bay leaf to a pan. Gently bring to a boil, then remove from the heat and leave for at least 20 minutes, to infuse.
 1. Pre-heat the oven to 190 fan.
 1. Heat at least 1 tbsp of olive oil in a pan and fry the chopped onion and garlic.
 1. Once they've softened, add the pack of lentils, tomatoes, stock, oregano, nutmeg and cinnamon. Season with salt and pepper. Bring to a boil then leave to simmer.
