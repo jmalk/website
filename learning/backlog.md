@@ -27,6 +27,7 @@ Things it might be worth learning more about.
   - Flexbox
     - [Wes Bos' What The Flexbox course](flexbox.io)
     - [Smashing Magazine Flexible Sizing](https://www.smashingmagazine.com/2018/09/flexbox-sizing-flexible-box/)
+  - Tailwind
 - SVG
   - [MDN SVG Getting Started](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started)
 - Accessibility
@@ -50,6 +51,10 @@ Things it might be worth learning more about.
 - Cloudflare Workers
 - Finite State Machines
   - [XState](https://xstate.js.org/docs/)
+- Svelte
+- tRPC
+- Sentry
+
 ---
 
 # Quick setup for trying stuff
