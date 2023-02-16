@@ -6,6 +6,9 @@ tags: learning
 
 Things it might be worth learning more about.
 
+- Auth.js
+- Docker
+  - https://docker-curriculum.com/
 - Jest
   - learning/jest-mocking.md
   - jest-preview
@@ -18,7 +21,9 @@ Things it might be worth learning more about.
   - testing-library
     - How to mock out hooks etc to test different states? e.g. the current state of checkout affects what should be rendered.
   - Error boundaries
+  - React Query
 - Next
+  - https://nextjs.org/learn/foundations/how-nextjs-works
 - styled-components
 - styled-system
 - yarn
@@ -39,6 +44,7 @@ Things it might be worth learning more about.
   - CLI: [glab](https://dev.to/profclems/take-gitlab-to-the-command-line-1ccl)
 - Git
   - worktree
+  - Look at [Git Credentials Manager](https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/)
 - GraphQL
   - learning/graphql.md
   - Apollo
@@ -54,10 +60,15 @@ Things it might be worth learning more about.
 - Svelte
 - tRPC
 - Sentry
+- Helm
+- Terraform
+- Azure Functions
+- Domain-Driven Design
+
 
 ---
 
-# Quick setup for trying stuff
+## Quick setup for trying stuff
 
 When I make a new JS repo, I generally want the same tools set up so I can try stuff without getting distracted. It'd be cool to automate doing this, like a template I can copy paste when I want to make a new "scrap" repo.
 
