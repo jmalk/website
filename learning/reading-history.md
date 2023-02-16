@@ -4,6 +4,9 @@ tags: learning
 ---
 # Reading History
 
+- [Building future facing frontend architectures](https://frontendmastery.com/posts/building-future-facing-frontend-architectures/) on Frontend Mastery.
+- [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/) on Frontend Mastery.
+- [New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37?s=03) by Dan Abramov.
 - [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons/) by Alex Russell.
 - [Making setInterval Declarative with React Hooks](https://overreacted.io/making-setinterval-declarative-with-react-hooks/) by Dan Abramov.
 - [How I do (and don't) prepare a talk for a tech conference](https://chelseatroy.com/2022/08/03/how-i-do-and-dont-prepare-a-talk-for-a-technical-conference/)
