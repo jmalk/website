@@ -4,6 +4,8 @@ tags: learning
 ---
 # Reading History
 
+- [Five Roles in a Healthy Mob](https://cucumber.io/blog/bdd/five-roles-in-a-healthy-mob/)
+- [Empowering your engineering team with an effective decision-making process](https://leaddev.com/technical-decision-making/empowering-your-engineering-team-effective-decision-making-process) by Cate Huston.
 - [Building future facing frontend architectures](https://frontendmastery.com/posts/building-future-facing-frontend-architectures/) on Frontend Mastery.
 - [The new wave of React state management](https://frontendmastery.com/posts/the-new-wave-of-react-state-management/) on Frontend Mastery.
 - [New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37?s=03) by Dan Abramov.
