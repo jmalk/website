@@ -5,6 +5,8 @@ tags: recipe
 
 # Butternut Squash and Sage Pasta
 
+![bowl of pasta](/assets/images/squash-sage-pasta.jpg)
+
 Serves 4.
 
 ## Ingredients

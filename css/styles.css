@@ -10,3 +10,7 @@ body {
 li {
   margin-block-end: 8px;
 }
+
+img {
+  width: 100%;
+}
