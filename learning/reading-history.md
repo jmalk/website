@@ -4,6 +4,14 @@ tags: learning
 ---
 # Reading History
 
+- [Our Collective Struggle Over Technical Debt](https://blog.jbrains.ca/permalink/our-collective-struggle-over-technical-debt).
+    - Reducing tech debt vs delivering features is a trade-off.
+    - Arguing about tech debt is how we self-correct time spent on tech debt.
+    - Arguing well requires trust. That means people in your team will need to feel safe to do it well.
+- [Time for Ideas to Spread](https://neil-vass.com/time-for-ideas-to-spread/) by Neil Vass.
+    - Very good ideas take a long time to catch on (e.g. citrus for scurvy).
+    - We see this in our field. Other fields have wrestled with it.
+    - What can we learn from other fields? Key trade-off = tight prescriptive instructions on how to adopt an idea vs loose instructions that allow adaptation to a context, and ownership by the people adopting it.
 - [Five Roles in a Healthy Mob](https://cucumber.io/blog/bdd/five-roles-in-a-healthy-mob/)
 - [Empowering your engineering team with an effective decision-making process](https://leaddev.com/technical-decision-making/empowering-your-engineering-team-effective-decision-making-process) by Cate Huston.
 - [Building future facing frontend architectures](https://frontendmastery.com/posts/building-future-facing-frontend-architectures/) on Frontend Mastery.
